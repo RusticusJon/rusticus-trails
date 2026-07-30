@@ -1,0 +1,22 @@
+{
+  "trails": [
+    {
+      "id": "oakwood-manor",
+      "name": "Oakwood Manor Trail",
+      "description": "A short walk through the manor's gardens and history.",
+      "venueName": "Oakwood Manor",
+      "venueAddress": "Manor Lane, Oakwood, OX1 2AB",
+      "venueMapUrl": "https://maps.app.goo.gl/your-share-link-here",
+      "pois": [
+        {
+          "id": "TRL-01",
+          "title": "The Gatehouse",
+          "summary": "Where visitors were once announced before entering the grounds.",
+          "durationLabel": "2 min 10 sec",
+          "audioUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/rusticus-trails/main/trails/oakwood-manor/audio/poi-01.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/rusticus-trails/main/trails/oakwood-manor/images/poi-01.jpg"
+        }
+      ]
+    }
+  ]
+}
