@@ -6,15 +6,71 @@
       "description": "A short walk through the manor's gardens and history.",
       "venueName": "Oakwood Manor",
       "venueAddress": "Manor Lane, Oakwood, OX1 2AB",
-      "venueMapUrl": "https://maps.app.goo.gl/your-share-link-here",
+      "venueMapUrl": "https://maps.app.goo.gl/TvgFMWrTQPM8R8oZ7",
       "pois": [
         {
           "id": "TRL-01",
           "title": "The Gatehouse",
           "summary": "Where visitors were once announced before entering the grounds.",
           "durationLabel": "2 min 10 sec",
-          "audioUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/rusticus-trails/main/trails/oakwood-manor/audio/poi-01.mp3",
-          "imageUrl": "https://raw.githubusercontent.com/YOUR-USERNAME/rusticus-trails/main/trails/oakwood-manor/images/poi-01.jpg"
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-01.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-01.jpg"
+        },
+        {
+          "id": "TRL-02",
+          "title": "The Old Orchard",
+          "summary": "Once the estate's main source of fruit, now left to grow wild.",
+          "durationLabel": "2 min 30 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-02.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-02.jpg"
+        },
+        {
+          "id": "TRL-03",
+          "title": "The Walled Garden",
+          "summary": "A restored Victorian kitchen garden, still growing much as it did 150 years ago.",
+          "durationLabel": "2 min 45 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-03.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-03.jpg"
+        },
+        {
+          "id": "TRL-04",
+          "title": "The Old Well",
+          "summary": "The estate's original water source, in use until the 1920s.",
+          "durationLabel": "1 min 50 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-04.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-04.jpg"
+        },
+        {
+          "id": "TRL-05",
+          "title": "The Long Avenue",
+          "summary": "A tree-lined path planted to mark the manor's founding.",
+          "durationLabel": "2 min 05 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-05.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-05.jpg"
+        },
+        {
+          "id": "TRL-06",
+          "title": "The Ha-Ha",
+          "summary": "A hidden sunken wall, built to keep grazing animals out without spoiling the view.",
+          "durationLabel": "1 min 40 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-06.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-06.jpg"
+        },
+        {
+          "id": "TRL-07",
+          "title": "The Summerhouse",
+          "summary": "A quiet spot once used for afternoon tea overlooking the lake.",
+          "durationLabel": "2 min 15 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-07.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-07.jpg"
+        },
+        {
+          "id": "TRL-08",
+          "title": "The Manor Steps",
+          "summary": "The finishing point of the trail, back at the manor's front entrance.",
+          "durationLabel": "2 min 00 sec",
+          "audioUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/audios/poi-08.mp3",
+          "imageUrl": "https://raw.githubusercontent.com/RusticusJon/rusticus-trails/main/trails/oakwood-manor/images/poi-08.jpg"
         }
       ]
     }
