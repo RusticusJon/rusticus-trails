@@ -8,8 +8,8 @@
       "venueAddress": "Manor Lane, Oakwood, OX1 2AB",
       "venueMapUrl": "https://maps.app.goo.gl/TvgFMWrTQPM8R8oZ7",
       "dates": [
-  { "from": "2026-07-25", "until": "2026-08-15" }
-]
+        { "from": "2026-07-25", "until": "2026-08-15" }
+      ],
       "pois": [
         {
           "id": "TRL-01",
